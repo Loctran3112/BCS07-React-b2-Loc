@@ -1,0 +1,9 @@
+#imageModel{
+    width: 100%;
+    position: relative;
+}
+#glassButton{
+    width: 24rem;
+    position: absolute;
+    bottom: 33rem;
+}
